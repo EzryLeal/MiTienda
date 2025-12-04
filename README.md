@@ -1,8 +1,8 @@
-# 🛒 Tienda Digital con Pedido por WhatsApp (MVP)
+#  Tienda Digital con Pedido por WhatsApp (MVP)
 
 > [cite_start]Plataforma de comercio electrónico de bajo coste diseñada para PyMEs[cite: 13]. [cite_start]Reemplaza las pasarelas de pago tradicionales con un **mecanismo de pedido directo y automático vía WhatsApp** [cite: 14, 17][cite_start], garantizando una alta tasa de conversión y eliminando comisiones[cite: 17].
 
-## 🚀 1. Enlace al Prototipo Funcional (v0)
+##  1. Enlace al Prototipo Funcional (v0)
 
 Este es el Producto Mínimo Viable (MVP) que demuestra la funcionalidad completa del Frontend y la lógica de negocio antes de la integración con la API REST.
 
@@ -11,7 +11,7 @@ Este es el Producto Mínimo Viable (MVP) que demuestra la funcionalidad completa
 | **Tienda (Cliente)** | [cite_start][ENLACE DEL PROTOTIPO] (Ej. `https://ezryleal.github.io/Tienda/`) [cite: 77] |
 | **Panel de Administración** | [ENLACE DEL PROTOTIPO]/admin.html |
 
-## 💡 2. Problema Resuelto y Propuesta de Valor
+##  2. Problema Resuelto y Propuesta de Valor
 
 | Característica | Propuesta de Valor |
 | :--- | :--- |
@@ -40,7 +40,7 @@ Este repositorio contiene la versión MVP (v0). [cite_start]La **Propuesta Técn
 | `Product` | `id, name, description, price` (decimal), `images` (JSON array) | [cite_start]Corresponde a la matriz `products` en `main.js`[cite: 42]. |
 | `Order` | `id, client_details, order_summary` (JSON), `created_at` | [cite_start]Registra el pedido generado por WhatsApp[cite: 42]. |
 
-## 🛠️ 4. Estructura y Funcionamiento del Código (v0)
+##  4. Estructura y Funcionamiento del Código (v0)
 
 | Archivo/Carpeta | Propósito | Funcionalidad Clave |
 | :--- | :--- | :--- |
@@ -51,7 +51,7 @@ Este repositorio contiene la versión MVP (v0). [cite_start]La **Propuesta Técn
 | `js/cart-view.js` | Lógica de Pedido. | [cite_start]Carga y decodifica el carrito de compras a través del **parámetro URL `data`** para generar el mensaje de WhatsApp[cite: 73, 75]. |
 | `css/styles.css` | Estilos. | [cite_start]Implementa efectos modernos como el *glassmorphism* y animaciones[cite: 29]. |
 
-## 👤 5. Información del Proyecto
+##  5. Información del Proyecto
 
 * [cite_start]**Nombre del Proyecto:** Tienda Digital con Pedido por WhatsApp [cite: 9]
 * [cite_start]**Estudiante:** Ezry Adilia Maribeth Leal Franco [cite: 5]
