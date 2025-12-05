@@ -57,3 +57,10 @@ Este repositorio contiene la versión MVP (v0). La **Propuesta Técnica Final (v
 * **Carnet:** 202200202
 * **Universidad:** Da Vinci
 * **Fecha de Entrega:** Guatemala 04 de diciembre de 2025
+
+# Links Disponibles
+* **Link Pagina WEB:** https://ezryleal.github.io/MiTienda/
+* **Link Diapositivas:** https://universidaddavincid-my.sharepoint.com/:p:/g/personal/202200202_estudiante_udv_edu_gt/EeUbz-6czetDuELl2pCe-4gBP9IwM8KgrpRbSj-7Q5v29A?e=oNqorc
+* **Link Video:** https://www.youtube.com/watch?v=dLs4xcBVE18
+* **Link GitHub:** https://github.com/EzryLeal/MiTienda.git
+* **Link PDF:** https://universidaddavincid-my.sharepoint.com/:b:/g/personal/202200202_estudiante_udv_edu_gt/EWGwIZFfW21DkOkE-hUUwhcB7QYD3efc_8DEzsnI_4B6Gg?e=hLT4MQ
